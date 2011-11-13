@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the iyi_account feature.
+ */
+
+include_once('iyi_account.features.inc');
